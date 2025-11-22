@@ -21,9 +21,9 @@ How to Run It
 1. Make sure you have Python 3 installed.
 2. Clone this repository:
    git clone https://github.com/NextGenDataDev/simple-calculator-py.git
-3. Navigate into the folder:
+4. Navigate into the folder:
    cd simple-calculator-py
-4. Run the script:
+5. Run the script:
    python new.py
 
 Why I Built This
